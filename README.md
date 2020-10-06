@@ -1,4 +1,5 @@
-# Kubernetes Metrics Server
+# Landmark Technology - TEL; +1 437 215 2483
+# Kubernetes Metrics Server 
 
 Metrics-server aggregates resource consumption data like CPU and memory usage for Kubernetes nodes, pods and containers. These metrics are collected from the API exposed by the Kubelet on each node.
 
@@ -7,7 +8,7 @@ The metrics server is commonly used by other Kubernetes add ons, such as the Hor
 It is not deployed by default.
 
 ## Deployment
-In order to deploy metrics-server in your kubernetes master machine clone https://github.com/MithunTechnologiesDevOps/metrics-server.git  and run the following command from
+In order to deploy metrics-server in your kubernetes master machine clone https://github.com/LandmakTechnology/metric-server.git  and run the following command from
 the top-level directory(metrics-server) of this repository:
  
 ```console
