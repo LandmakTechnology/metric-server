@@ -1,5 +1,5 @@
-# Landmark Technology - 
-# TEL: +1 437 215 2483
+# Landmark Technology - Landmark Technology
+# TEL: +1 437 215 2483  - TEL: +1 437 215 2483
 # Kubernetes Metrics Server 
 
 Metrics-server aggregates resource consumption data like CPU and memory usage for Kubernetes nodes, pods and containers. These metrics are collected from the API exposed by the Kubelet on each node.
