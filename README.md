@@ -13,7 +13,8 @@ In order to deploy metrics-server in your kubernetes master machine clone https:
 the top-level directory(metrics-server) of this repository:
  
 ```console
-$ kubectl apply -f deploy/1.8+/
+git clone https://github.com/LandmakTechnology/metric-server
+kubectl apply -f metric-server/metrics-server-deploy.yml
 ```
 
 ## Usage
