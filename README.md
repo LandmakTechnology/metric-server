@@ -21,10 +21,10 @@ kubectl apply -f metric-server/metrics-server-deploy.yml
 
 ```console
 # Display node metrics
-$ kubectl top nodes
+ kubectl top nodes
 
 # Display pod metrics
-$ kubectl top pods
+ kubectl top pods
 ```
 
 ## User guide
